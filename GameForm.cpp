@@ -9,5 +9,5 @@ int main(array<String^>^ args) {
 	Application::EnableVisualStyles();
 	GamePlatformer::GameForm form;
 	Application::Run(% form);
-
+  
 }
